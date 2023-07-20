@@ -1,0 +1,161 @@
+* {
+    font-family: "Dosis", sans-serif;
+    font-family: "Pangolin", cursive;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&family=Pangolin&display=swap");
+
+div {
+    display: block;
+}
+
+.avatar {
+    background: #fe5da3;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 32px;
+}
+
+.name {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 5px;
+}
+
+#header {
+    display: block;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.girl {
+    background: #f1f1f1;
+    font-size: 14px;
+    padding: 5px 10px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    border-radius: 15px;
+    max-width: 200px;
+    line-height: 1.4;
+}
+
+.boy {
+    background: #fe5da3;
+    font-size: 14px;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    max-width: 200px;
+    line-height: 1.4;
+    color: #fff;
+    margin-left: 40px;
+}
+
+.Text {
+    padding: 10px;
+    border-top: 1px solid #ddd;
+}
+
+div {
+    display: block;
+}
+
+.text {
+    border: 1px solid #ddd;
+    height: 25px;
+    width: 190px;
+    border-radius: 15px;
+    padding: 0 10px;
+    outline: none;
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+.but {
+    border-radius: 15px;
+    border: 1px solid #fe5da3;
+    background: #fe5da3;
+    color: #fff;
+    height: 25px;
+    padding: 0 10px;
+}
+
+.tinnhan {
+    width: 190px;
+    height: 25px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 0 10px;
+    outline: none;
+}
+
+.body {
+    display: block;
+    width: 270px;
+    height: 245px;
+    padding: 10px 10px 10px 10px;
+}
+
+.danhmucsanpham,
+.sanpham {
+    border: 1px solid #ddd;
+    display: inline-block;
+    margin: 0px 10px 10px 0px;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.danhmucsanpham,
+.sanpham,
+img {
+    height: 100px;
+    width: auto;
+}
+
+.title_sp {
+    font-size: 15px;
+}
+
+.sp3 {
+    display: inline-block;
+    width: 250px;
+    height: 400px;
+    margin: 10px;
+
+    border: 1px #ddd solid;
+}
+
+.image {
+    width: 230px;
+    height: 250px;
+    margin: 8px 8px 10px 8px;
+}
+
+.Gia {
+    color: green;
+}
+
+h4 {
+    color: red;
+}
+
+.Giam {
+    color: purple;
+}
+
+h3,
+h4 {
+    margin: 10px;
+}
